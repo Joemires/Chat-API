@@ -1,4 +1,5 @@
 # Chat API [![Latest Stable Version](https://poser.pugx.org/whatsapp/chat-api/v/stable)](https://packagist.org/packages/whatsapp/chat-api) [![Total Downloads](https://poser.pugx.org/whatsapp/chat-api/downloads)](https://packagist.org/packages/whatsapp/chat-api) [![License](https://poser.pugx.org/whatsapp/chat-api/license)](https://packagist.org/packages/whatsapp/chat-api)
+[![Run on Repl.it](https://repl.it/badge/github/Joemires/Chat-API)](https://repl.it/github/Joemires/Chat-API)
 
 Interface to WhatsApp Messenger
 
